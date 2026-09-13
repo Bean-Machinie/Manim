@@ -1,0 +1,6 @@
+# Manim Community Edition — the renderer.
+# Pinned so scene code stays reproducible; bump deliberately, not incidentally.
+manim==0.19.0
+
+# Pulled in by manim, pinned here because scenes touch them directly:
+numpy==2.5.3

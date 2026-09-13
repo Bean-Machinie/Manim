@@ -1,0 +1,7 @@
+.venv/
+output/
+media/
+__pycache__/
+*.py[cod]
+*.mp4
+.DS_Store
